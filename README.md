@@ -1,1 +1,1 @@
-VSCode的所有练习项目
+VSCode含Java与python的练习项目
