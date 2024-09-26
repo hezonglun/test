@@ -1,5 +1,1 @@
-VSCode含Java与python的练习项目
-
-Tether(TRC20) TAQ74gUkpUPAEJKdQgMKS7D3M7sGsBut8t
-
-Tether(ERC20) 0x4d6Fa5dA69dd58F9D9Da4861cf28b7596c9cc250
+bat,Java与python的练习项目
